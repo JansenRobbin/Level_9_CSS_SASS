@@ -1,0 +1,9 @@
+@mixin textPlant {
+    max-width: 700px;
+    text-align: center;
+    padding: $standardPadding;
+    }
+    
+$primaryBackground: #97d279;
+$secondaryBackground: #c0eea9;
+$standardPadding: 20px;
